@@ -1,4 +1,4 @@
-# hex002-womb-documentation
+# hex002-womb-about
 
 Documentation of HEX 002.
 
