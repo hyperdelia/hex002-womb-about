@@ -2,13 +2,13 @@
 
 Documentation of HEX 002.
 
-# Setup
+## Setup
 
 ```
 yarn
 ```
 
-# Development
+## Development
 
 Run the `watch` and `serve` command as separate tasks.
 
