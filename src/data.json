@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "version": "0.1.0",
+    "title": "Kajsa Lindgren - WOMB",
+    "url": "https://about.inanimate.world",
+    "year": 2018,
+    "description": "",
+    "image": {
+      "src": "https://about.inanimate.world/assets/images/bg.jpg",
+      "width": "1200",
+      "height": "1200",
+      "type": "image/jpeg"
+    },
+    "charset": "utf-8",
+    "favicon": "/assets/images/favicon.ico",
+    "styles": "/assets/styles/app.css",
+    "scripts": "/assets/scripts/app.js"
+  }
+}

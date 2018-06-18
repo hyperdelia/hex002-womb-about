@@ -1,0 +1,23 @@
+* {
+  &,
+  &::before,
+  &::after {
+    box-sizing: border-box;
+    text-rendering: optimizeLegibility;
+  }
+}
+
+::selection {
+  color: $white;
+
+  background-color: $black;
+
+  text-shadow: none;
+}
+
+html,
+body {
+  font-weight: $font-weight-regular;
+  font-size: $font-size-regular;
+  font-family: $font-family-regular;
+}

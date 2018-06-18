@@ -1,0 +1,33 @@
+{
+  "name": "hex002-womb-about",
+  "version": "0.1.0",
+  "description": "Documentation of HEX 002",
+  "main": "src/js/index.js",
+  "scripts": {
+    "build": "yarn prepare && static-generator build -s ./src -o ./dist",
+    "clear": "rimraf ./dist",
+    "lint": "yarn lint:scss && yarn lint:js",
+    "lint:js": "eslint ./src/assets/scripts",
+    "lint:scss": "stylelint ./src/assets/styles",
+    "prepare": "mkdir -p ./dist",
+    "serve": "serve",
+    "start": "yarn serve",
+    "watch": "yarn prepare && watch 'yarn build' ./src"
+  },
+  "repository": "git@github.com:hyperdelia/hex002-womb-about.git",
+  "author": "Andreas Dzialocha <kontakt@andreasdzialocha.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "serve": "^9.0.0",
+    "static-generator": "^0.2.2",
+    "stylelint": "^9.3.0",
+    "stylelint-config-standard": "^18.2.0",
+    "stylelint-order": "^0.8.1",
+    "watch": "^1.0.2"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.0",
+    "rimraf": "^2.6.2"
+  }
+}
