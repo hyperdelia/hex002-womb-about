@@ -15,9 +15,18 @@
   text-shadow: none;
 }
 
-html,
+html {
+  font-size: 62.5%;
+}
+
 body {
+  padding: 2rem;
+
   font-weight: $font-weight-regular;
   font-size: $font-size-regular;
   font-family: $font-family-regular;
+
+  background-image: url("/assets/images/background.jpg");
+  background-position: center;
+  background-size: cover;
 }

@@ -12,7 +12,7 @@
     "prepare": "mkdir -p ./dist",
     "serve": "serve",
     "start": "yarn serve",
-    "watch": "yarn prepare && watch 'yarn build' ./src"
+    "watch": "yarn prepare && watch --interval=1 --wait=1 'yarn build' ./src"
   },
   "repository": "git@github.com:hyperdelia/hex002-womb-about.git",
   "author": "Andreas Dzialocha <kontakt@andreasdzialocha.com>",
