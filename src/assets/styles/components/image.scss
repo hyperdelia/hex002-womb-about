@@ -1,0 +1,15 @@
+.image {
+  margin-top: 6rem;
+  margin-bottom: 6rem;
+
+  opacity: 0;
+
+  transition: opacity linear 1s;
+}
+
+// .image--loading {
+// }
+
+.image--ready {
+  opacity: 1;
+}

@@ -1,4 +1,5 @@
 import { generateMobile } from './shapes';
+import preloadImage from './preload';
 
 const RESOURCES_URL = 'https://world.inanimate.world';
 
@@ -34,3 +35,19 @@ function createBackground(textures, node) {
 
   node.appendChild(mobile);
 }
+
+const imageElems = document.querySelectorAll('.image');
+
+[...imageElems].forEach(elem => {
+  const { url } = elem.dataset;
+
+  elem.classList.add('image--loading');
+  preloadImage(url)
+    .then(imgElem => {
+      elem.classList.remove('image--loading');
+      elem.classList.add('image--ready');
+      elem.appendChild(imgElem);
+    });
+
+  console.log(url);
+});
