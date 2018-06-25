@@ -9,6 +9,7 @@ const SHAPE_ELEM_IDS = [
   'shape-right',
 ];
 
+// Generate random shapes and display them
 fetch(RESOURCES_URL)
   .then(response => {
     return response.json();
@@ -36,6 +37,7 @@ function createBackground(textures, node) {
   node.appendChild(mobile);
 }
 
+// Add images to content
 const imageElems = document.querySelectorAll('.image');
 
 [...imageElems].forEach(elem => {
@@ -48,6 +50,4 @@ const imageElems = document.querySelectorAll('.image');
       elem.classList.add('image--ready');
       elem.appendChild(imgElem);
     });
-
-  console.log(url);
 });
