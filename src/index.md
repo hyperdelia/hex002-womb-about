@@ -16,7 +16,7 @@
  
 It was different of course to hear the composition underwater – it felt a bit like being a child again. Being able to move and listen to it and choose your own position. A feeling of being absorbed by this being in a way. That was beautiful.
 
-**David:** There were a lot of things we couldn’t foresee, how the sound would react underwater in the pool. For instance, this rattling sound that wouldn’t go away, that was kind of interesting to deal with, there were sounds that would constantly surprise us. I am quite impressed by how it turned out.
+**David:** There were a lot of things we couldn’t foresee, how the sound would react underwater in the pool. This rattling sound, for instance, that wouldn’t go away – that was kind of interesting to deal with, there were sounds that would constantly surprise us. I am quite impressed by how it turned out.
 
 <div class="image" data-url="/assets/images/image-02.jpg"></div>
 
@@ -184,13 +184,13 @@ It’s kind of weird, but I think it makes total sense when you consider what we
 
 ## Hydrophonic sensing
 
-by Kiki Schmalz
+> by Kiki Schmalz
  
 There’s always a soft clicking. Sounds keep on happening and moving – the dripping, the strings in the distance, a swooshing, whale like singing – and still, we find ourselves and our listening embedded in a pulse-less, calm sea. I close my window to keep the noisy wind in the trees outside.
  
-And go back in – into the spinning grooves, submerged and slowed down by the heavy waters. Where again I am simultaneously moved and arrested. Where a howling beast greets me – from somewhere, I don’t know where from. But then I have watched Blue Planet a few days ago and my mind is full of sea creatures and whale songs. And luckily David Attenborough remains silent.
+And go back in – into the spinning grooves, submerged and slowed down by the heavy waters. Where again I am simultaneously moved and arrested. Where a howling beast greets me – from somewhere, I don’t know where from. But then I have watched *Blue Planet* a few days ago and my mind is full of sea creatures and whale songs. And luckily David Attenborough remains silent.
  
-The imagery of water is prevalent though. We won’t, we can’t, we don’t want to escape the wetness. It pours over us – closes in our ears so we only hear ourselves, no outside but our own breathing. Sounds and waves and with them our resonating bones become liquid, float in and as water – away. Gaston Bachelard writes: “Everything in the Universe is an echo.”💧 Ear = bones = water = sound/waves.
+The imagery of water is prevalent though. We won’t, we can’t, we don’t want to escape the wetness. It pours over us – closes in our ears so we only hear ourselves, no outside but our own breathing. Sounds and waves and with them our resonating bones become liquid, float in and as water ~ *away*. Gaston Bachelard writes: “Everything in the Universe is an echo.”💧 Ear = bones = water = sound/waves.
  
 Into the water: and the tympanic membrane shuts down, or almost. Is touched by another matter, dense and deep – not aerial but aquatic vibrations massage me. Or when played back in air: then we experience the mixing of both worlds and re-hear the environment of our ears. Both homely and eerie, both uncanny and comforting. A fine-tuning of your aerial-aural senses. We keep the ear to the waves and the earthy ground crumbles.
  
@@ -206,7 +206,7 @@ Water knows, and we might hear it think. Hydrophonic sensing might get us a litt
 > “… water … is a poetic reality.”💧
 
 We go to the waters, go listen at the waters and to the waters to drift. And drift away. Feeling not melancholic or euphoric but at ease, liquidised, our ears dissolved into ruffled creamy and foamy waves – plunging into and out of the water, dancing its surface.
-
+---
 💧Bachelard, G. (1983). Water and Dreams: An Essay on the Imagination of Matter. Dallas: The Pegasus Foundation. p. 194
 💧Ibid. p. 8
 💧Ibid. p. 15
