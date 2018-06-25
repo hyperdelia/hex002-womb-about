@@ -1,11 +1,39 @@
 // colors
 $black: #000;
+$gray: #333;
+$gray-light: #666;
+$gray-lighter: #999;
 $white: #fff;
 
 $womb-orange: #d45543;
 
 // fonts
 $font-family-regular: "Kreon", "Georgia", serif;
+
 $font-weight-regular: 400;
 $font-weight-heavy: 700;
-$font-size-regular: 2rem;
+
+$font-size-regular: 1.6rem;
+$font-size-large: 2.4rem;
+$font-size-extra-large: 3.2rem;
+
+$font-color: $gray;
+
+// line height
+$line-height-regular: 1.8;
+
+// content
+$content-max-width: 50rem;
+
+// horizontal line
+$horizontal-line-height: 2px;
+$horizontal-line-color: $womb-orange;
+
+// breakpoints
+$breakpoint-width: 1000px;
+$breakpoint-height: 300px;
+
+// z-index
+$z-index: (
+  mobile: -1,
+);

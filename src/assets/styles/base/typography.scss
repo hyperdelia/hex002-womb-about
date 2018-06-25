@@ -1,8 +1,7 @@
 p {
-	margin-top: 2rem;
-  margin-bottom: 2rem;
+  max-width: $content-max-width;
 
-  line-height: 1.5;
+  margin: 1.5rem auto;
 }
 
 h1,
@@ -11,12 +10,29 @@ h3,
 h4,
 h5,
 h6 {
-	margin-top: 6rem;
+  max-width: $content-max-width;
+
+  margin: 3rem auto;
 
   font-weight: $font-weight-heavy;
-	font-size: 3rem;
+  font-size: $font-size-large;
+
+  text-align: center;
+}
+
+h1,
+h2 {
+  margin: 12rem auto;
+
+  font-size: $font-size-extra-large;
 }
 
 strong {
   font-weight: $font-weight-heavy;
+}
+
+blockquote {
+  font-style: italic;
+
+  text-align: right;
 }

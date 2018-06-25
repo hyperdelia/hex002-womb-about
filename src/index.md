@@ -2,6 +2,10 @@
 
 »WOMB« started as a project between Kajsa Lindgren and Hyperdelia and David Granström in early 2017. On 24th February 2018 we rented Storkyrkobadet swimming pool in Stockholm, Gamla Stan to record the record »WOMB«. Kajsa and David re-amped and re-recorded Kajsa’s composition through underwater speakers and hydrophones and made impulse responses of the acoustics of the pool. The next day Kajsa and David, Malte and Andreas met up and talked about the recording of WOMB underwater, about how to work with hydrophones and about voices of memory. This conversation took place at Café Uddvillan in Stockholm. The sun was still out and was shining on the frozen and snow-covered lake.
 
+*Kajsa Lindgren – »WOMB« is available as 12” vinyl LP and download via [hyperdelia.com](https://hyperdelia.com) and [Bandcamp](https://hyperdelia.bandcamp.com).*
+
+---
+
 <div class="image" data-url="/assets/images/image-01.jpg"></div>
 
 ### Recording process

@@ -6,11 +6,17 @@
 
 // base
 @import "base/global";
-@import "base/typography";
+@import "base/horizontal-rule";
 @import "base/images";
 @import "base/links";
+@import "base/typography";
+
+// mixins
+@import "mixins/media-query";
 
 // components
+@import "components/footer";
+@import "components/logo";
+@import "components/mobile";
 @import "components/title";
 @import "components/wrapper";
-@import "components/logo";

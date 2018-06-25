@@ -10,23 +10,28 @@
 ::selection {
   color: $white;
 
-  background-color: $black;
+  background-color: $font-color;
 
   text-shadow: none;
 }
 
 html {
+  background-image: url("/assets/images/background.jpg");
+  background-position: top;
+  background-size: contain;
+
   font-size: 62.5%;
 }
 
 body {
   padding: 2rem;
+  padding-top: 6rem;
+
+  color: $font-color;
 
   font-weight: $font-weight-regular;
   font-size: $font-size-regular;
   font-family: $font-family-regular;
 
-  background-image: url("/assets/images/background.jpg");
-  background-position: center;
-  background-size: cover;
+  line-height: $line-height-regular;
 }

@@ -17,9 +17,13 @@
     <link type="image/x-icon" rel="icon" href="{{ meta.favicon }}">
     <link type="text/css" rel="stylesheet" href="{{ meta.styles }}?v={{ meta.version }}">
     <link href="https://fonts.googleapis.com/css?family=Kreon:400,700" rel="stylesheet">
-    <script type="text/javascript" src="{{ meta.scripts }}?v={{ meta.version }}"></script>
   </head>
-    <body>
+  <body>
+    <div class="mobile">
+      <div class="mobile__shapes" id="shape-left"></div>
+      <div class="mobile__shapes" id="shape-right"></div>
+    </div>
+
     <div class="wrapper">
       <header>
         <div class="title title--womb"></div>
@@ -29,11 +33,14 @@
         {{ content | safe }}
       </main>
 
-      <footer>
+      <footer class="footer">
+        <hr />
         <div class="logo logo--kulturbryggan"></div>
         <div class="logo logo--hyperdelia"></div>
-        <p>&copy; {{ meta.year }}</p>
+        <p>&copy; {{ meta.year }} HYPERDELIA.COM</p>
       </footer>
     </div>
+  
+    <script type="text/javascript" src="{{ meta.scripts }}?v={{ meta.version }}"></script>
   </body>
 </html>

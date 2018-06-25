@@ -1,0 +1,37 @@
+$_shape-size: 500px;
+
+.mobile {
+  position: fixed;
+
+  top: 0;
+  right: 0;
+  left: 0;
+
+  z-index: map-get($z-index, "mobile");
+
+  display: flex;
+
+  justify-content: space-between;
+}
+
+.mobile__shapes {
+  position: relative;
+
+  top: -$_shape-size / 2;
+
+  width: $_shape-size;
+
+  &:first-child {
+    left: -$_shape-size / 2;
+  }
+
+  &:last-child {
+    right: -$_shape-size / 2;
+  }
+}
+
+@include media-query() {
+  .mobile {
+    display: none;
+  }
+}

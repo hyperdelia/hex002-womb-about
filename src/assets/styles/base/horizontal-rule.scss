@@ -1,0 +1,10 @@
+hr {
+  max-width: $content-max-width;
+  height: $horizontal-line-height;
+
+  margin: 12rem auto;
+
+  border: 0;
+
+  background-color: $horizontal-line-color;
+}
