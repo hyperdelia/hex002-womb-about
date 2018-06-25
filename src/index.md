@@ -36,8 +36,8 @@ I think I then understood what you meant with the state, you became the space, y
  
 **Kajsa:** I think when I thought about the composition being played underwater I was thinking about what sounds to enhance, what kind of material to focus on. So far, I have been focusing very much on the voices, they have lead the composition and through them I have arranged the piece. That is one layer.
  
-The second layer with a lot of low frequencies and ambiences was a bit more difficult to handle in the beginning. Funnily, what we heard much more clearly were the detailed sounds that occurred not so often. I was amazed to hear voice so clearly underwater, that was really beautiful.
- 
+In this layer there’s a lot of low frequencies and ambiences which was a bit more difficult to handle in the beginning. Funnily, what we heard much more clearly were the detailed sounds from the other layer, layer two, which occurred not so often. That’s why I was amazed to hear voice so clearly underwater, that was really beautiful.
+
 That’s an interesting situation also for the concert when the voices are heard so clearly: you can basically hear them very distinctly and sharp from anywhere in the pool. But to listen to the lower frequencies you have to swim towards the speakers and then it gets physical because you feel the vibrations.
 
 <div class="image" data-url="/assets/images/image-04.jpg"></div>
@@ -82,7 +82,7 @@ When I had all the recordings and memories of the interviewees at hand I had to 
 
 **Andreas:** One of the voices is your grandmother. How did you record her?
  
-**Kajsa:** That was when I was in Oslo. She lives up in the North of Sweden. So, we talked on the phone and I recorded that. My grandmother is really good at talking so I would just sit there quiet and she would talk.
+**Kajsa:** That’s from when I was at a residency at NOTAM in Oslo, working with WOMB. And since she is living in the North of Sweden we talked on the phone and I recorded that conversation. My grandmother is really good at talking so I would just sit there quiet and she would talk.
  
 There was also this one interviewee, he had this really funny memory of being a kid and using a pitch fork and putting it to his eye lashes and feeling it vibrate. And he talked about that and at the end of it he played the pitchfork. It was really interesting to hear how different everybody approached the situation.
  
