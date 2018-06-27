@@ -6,10 +6,10 @@
     "year": 2018,
     "description": "»WOMB« is lucid underwater music composed by Kajsa Lindgren and released 15/06/18 on Hyperdelia.",
     "image": {
-      "src": "https://about.inanimate.world/assets/images/bg.jpg",
-      "width": "1200",
-      "height": "1200",
-      "type": "image/jpeg"
+      "src": "https://about.inanimate.world/assets/images/womb-page.png",
+      "width": "2560",
+      "height": "1600",
+      "type": "image/png"
     },
     "charset": "utf-8",
     "favicon": "/assets/images/favicon.ico",
