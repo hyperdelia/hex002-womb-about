@@ -207,7 +207,6 @@ Water knows, and we might hear it think. Hydrophonic sensing might get us a litt
 
 We go to the waters, go listen at the waters and to the waters to drift. And drift away. Feeling not melancholic or euphoric but at ease, liquidised, our ears dissolved into ruffled creamy and foamy waves – plunging into and out of the water, dancing its surface.
 
-
 💧Bachelard, G. (1983). Water and Dreams: An Essay on the Imagination of Matter. Dallas: The Pegasus Foundation. p. 194
 💧Ibid. p. 8
 💧Ibid. p. 15
