@@ -88,7 +88,7 @@ There was also this one interviewee, he had this really funny memory of being a 
  
 Another one talked about a mechanical piano that she heard when she grew up in New York, in a house, when she was a kid and it was really difficult to get that recording. I have a small Spieldose and a toy piano so I recorded that instead and added them together.
 
-<div class="video" data-id="09"></div>
+<div class="video" data-url="https://www.youtube.com/watch?v=dZ0MwZbJWwo"></div>
 
 ### Pool setting
  
@@ -102,7 +102,7 @@ In the end it was much simpler, but functional. We just hung one bar of plastic 
  
 We also had discussion about different configurations, different positions to place the microphones and speakers in the pool – but in the end we only had two positions. One where we hung the hydrophones across the pool in the middle with the speakers in the four corners and then another one where we had them at the end of the pool, further away from the speakers, so that we would get a really wide stereo. In the end there were a lot of practical considerations that made it what it is now.
 
-<div class="video" data-id="11"></div>
+<div class="video" data-url="https://www.youtube.com/watch?v=A2uEaFOmJms"></div>
 
 **Kajsa:** It is also interesting to realise that the hydrophones that we used are not meant to record this kind of music in this setting. They are industrial products and not very user friendly.
  
@@ -116,7 +116,7 @@ We also had discussion about different configurations, different positions to pl
  
 **Kajsa:** And synchronised swimming. 
 
-<div class="video" data-id="12"></div>
+<div class="video" data-url="https://www.youtube.com/watch?v=6azRjVrnOSA"></div>
 
 **Andreas:** When we were planning the recording I had to think of recording situations in a studio environment, where you have a room, let’s say with marble walls, and you want to record a bass drum, with a specific bass drum microphone, a specific acoustic characteristic of the bass drum itself, different acoustic positions of the bass drum in the room, different microphones and different microphone positions – so you have all these things that you can have control over.
 
@@ -177,8 +177,6 @@ This then converges with all these different outlets that we created: pool conce
 It’s kind of weird, but I think it makes total sense when you consider what we talked about earlier as well: all these things we kind of subconsciously encode when we write or produce. It doesn’t matter much, if you know about it and hear it or not, it will affect everything else nonetheless. And when I listen to this music I feel like – even though there’s these hidden messages inside everywhere and no one knows about them –  it will very much have an impact on the listener.
  
 **Kajsa:** Yes, also because the process of compiling and recording and collecting is the most important thing, maybe more so than the immediate outcome – that’s important as well of course –, but for me the most fun part is being creative with the material.
-
-<div class="video" data-id="19"></div>
 
 ---
 

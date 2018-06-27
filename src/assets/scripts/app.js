@@ -1,5 +1,6 @@
-import { generateMobile } from './shapes';
 import preloadImage from './preload';
+import prepareVideos from './video';
+import { generateMobile } from './shapes';
 
 const RESOURCES_URL = 'https://world.inanimate.world';
 
@@ -51,3 +52,6 @@ const imageElems = document.querySelectorAll('.image');
       elem.appendChild(imgElem);
     });
 });
+
+// Show video thumbnails
+prepareVideos();
